@@ -9,4 +9,5 @@ What this poorly written script does is open a Hindawi.org epub file and removes
 __Note:__ This only works on Hindawi files for now as there are no agreed upon location for CSS files or fonts in the EPUB standard.
 
 Usage: fix-hindawi-epub.py filename.epub
+
 Output: fixed_filename.epub
